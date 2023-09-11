@@ -12,7 +12,7 @@ def measure_voltage(pin):
     return voltage
 
 # Anzahl der Messungen
-num_measurements = 3
+num_measurements = 2
 
 # Benutzereingabe für die zusätzliche Zeile
 datName = input("Bitte geben Sie den Name Datei mit Dateierwartungen '.txt' ein: ")

@@ -1,0 +1,2 @@
+# Deatt
+Das Programm soll die Spannung an den Pins GP26 und GP27 des Raspberry Pi Pico messen, anschließend die Differenz zwischen der ersten und der zweiten Spannung berechnen. Danach soll das Programm die Spannung an GP27 durch 0,098 teilen, um den Strom zu ermitteln. Diese Ergebnisse sollen in der Datei "kennlinien.txt" gespeichert werden. Die elektrische Schaltung ist in der Referenz zu finden.

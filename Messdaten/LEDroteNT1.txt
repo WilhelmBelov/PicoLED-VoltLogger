@@ -1,0 +1,27 @@
+Rote LED NT1
+Differenzspannung: 1.6077 V, Strom: 0.3453 A
+Differenzspannung: 1.6020 V, Strom: 0.3288 A
+Differenzspannung: 1.6367 V, Strom: 0.3782 A
+Differenzspannung: 1.6279 V, Strom: 0.4439 A
+Differenzspannung: 1.6464 V, Strom: 0.4851 A
+Differenzspannung: 1.6424 V, Strom: 0.4768 A
+Differenzspannung: 1.6682 V, Strom: 0.6084 A
+Differenzspannung: 1.6569 V, Strom: 0.6166 A
+Differenzspannung: 1.6738 V, Strom: 0.9865 A
+Differenzspannung: 1.6859 V, Strom: 0.8961 A
+Differenzspannung: 1.7092 V, Strom: 1.3565 A
+Differenzspannung: 1.7117 V, Strom: 1.3318 A
+Differenzspannung: 1.7407 V, Strom: 2.4011 A
+Differenzspannung: 1.7463 V, Strom: 2.3436 A
+Differenzspannung: 1.7464 V, Strom: 3.7329 A
+Differenzspannung: 1.7576 V, Strom: 3.5850 A
+Differenzspannung: 1.7987 V, Strom: 5.9614 A
+Differenzspannung: 1.7987 V, Strom: 5.9532 A
+Differenzspannung: 1.8438 V, Strom: 14.8511 A
+Differenzspannung: 1.8454 V, Strom: 14.8428 A
+Differenzspannung: 1.8245 V, Strom: 15.0319 A
+Differenzspannung: 1.8269 V, Strom: 15.0319 A
+Differenzspannung: 1.8156 V, Strom: 8.2556 A
+Differenzspannung: 1.8148 V, Strom: 8.2967 A
+Differenzspannung: 1.8228 V, Strom: 15.0730 A
+Differenzspannung: 1.8172 V, Strom: 15.1306 A

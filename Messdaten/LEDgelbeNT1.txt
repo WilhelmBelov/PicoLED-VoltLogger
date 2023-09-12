@@ -1,0 +1,25 @@
+Gelbe LED NT1
+Differenzspannung: 1.6109 V, Strom: 4.7837 A
+Differenzspannung: 1.6101 V, Strom: 3.2731 A
+Differenzspannung: 1.6085 V, Strom: 4.2802 A
+Differenzspannung: 1.6085 V, Strom: 4.5319 A
+Differenzspannung: 1.6270 V, Strom: 4.5319 A
+Differenzspannung: 1.6294 V, Strom: 4.5319 A
+Differenzspannung: 1.6577 V, Strom: 4.5319 A
+Differenzspannung: 1.6464 V, Strom: 8.0568 A
+Differenzspannung: 1.6923 V, Strom: 4.5319 A
+Differenzspannung: 1.6883 V, Strom: 5.0355 A
+Differenzspannung: 1.7737 V, Strom: 4.7837 A
+Differenzspannung: 1.7745 V, Strom: 4.2802 A
+Differenzspannung: 1.8446 V, Strom: 5.0355 A
+Differenzspannung: 1.8438 V, Strom: 6.5461 A
+Differenzspannung: 1.9091 V, Strom: 6.2943 A
+Differenzspannung: 1.9623 V, Strom: 10.5745 A
+Differenzspannung: 2.0276 V, Strom: 14.8547 A
+Differenzspannung: 2.0219 V, Strom: 14.6029 A
+Differenzspannung: 1.9873 V, Strom: 16.1135 A
+Differenzspannung: 2.1146 V, Strom: 94.6827 A
+Differenzspannung: 2.1090 V, Strom: 93.6756 A
+Differenzspannung: 1.9993 V, Strom: 13.0922 A
+Differenzspannung: 2.1138 V, Strom: 101.9842 A
+Differenzspannung: 2.1009 V, Strom: 103.7466 A

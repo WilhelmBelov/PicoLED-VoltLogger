@@ -1,0 +1,27 @@
+Gelbe LED V2 NT2
+Differenzspannung: 1.6512 V, Strom: 3.0213 A
+Differenzspannung: 1.6367 V, Strom: 4.2802 A
+Differenzspannung: 1.6512 V, Strom: 3.0213 A
+Differenzspannung: 1.6335 V, Strom: 4.2802 A
+Differenzspannung: 1.6561 V, Strom: 4.7837 A
+Differenzspannung: 1.6609 V, Strom: 4.5319 A
+Differenzspannung: 1.6665 V, Strom: 7.0497 A
+Differenzspannung: 1.6488 V, Strom: 5.0355 A
+Differenzspannung: 1.6964 V, Strom: 4.7837 A
+Differenzspannung: 1.6947 V, Strom: 4.2802 A
+Differenzspannung: 1.7350 V, Strom: 4.2802 A
+Differenzspannung: 1.7342 V, Strom: 4.5319 A
+Differenzspannung: 1.8285 V, Strom: 4.7837 A
+Differenzspannung: 1.8293 V, Strom: 4.7837 A
+Differenzspannung: 1.8769 V, Strom: 5.2873 A
+Differenzspannung: 1.8745 V, Strom: 5.5390 A
+Differenzspannung: 2.0114 V, Strom: 11.0780 A
+Differenzspannung: 1.9913 V, Strom: 10.3227 A
+Differenzspannung: 2.1904 V, Strom: 38.7732 A
+Differenzspannung: 2.1920 V, Strom: 38.2696 A
+Differenzspannung: 2.3217 V, Strom: 89.3955 A
+Differenzspannung: 2.3128 V, Strom: 93.6756 A
+Differenzspannung: 2.2790 V, Strom: 103.7466 A
+Differenzspannung: 2.2693 V, Strom: 105.0054 A
+Differenzspannung: 2.2436 V, Strom: 111.5516 A
+Differenzspannung: 2.2347 V, Strom: 116.0835 A

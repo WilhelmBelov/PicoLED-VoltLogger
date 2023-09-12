@@ -17,7 +17,7 @@ num_measurements = 2
 # Benutzereingabe für die zusätzliche Zeile
 datName = input("Bitte geben Sie den Name Datei mit Dateierwartungen '.txt' ein: ")
 print("'\n")
-print("Die Datei namens ", datName, "wird geschafft.")
+print("Die Datei namens ", datName, " wird geschafft.")
 print("\n")
 user_line = input("Bitte geben Sie den Name Messungen ein: ")
 
